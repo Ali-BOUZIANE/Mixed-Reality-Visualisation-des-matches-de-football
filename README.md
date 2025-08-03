@@ -15,11 +15,11 @@ Nous sommes fiers de présenter **notre projet XR immersif dédié aux fans de f
 ## 🖼️ Aperçus du projet
 
 ### Poster
-![Interface Fans](poster.jpg)
+<img src="poster.jpg" alt="Poster" width="300"/>
 
 ### Équipe projet lors du concours
-![Équipe](equipe.jfif)
-![Équipe](photo.jfif)
+<img src="equipe.jfif" alt="Équipe" width="300"/>
+<img src="photo.jfif" alt="Photo équipe" width="300"/>
 
 ---
 

@@ -14,8 +14,8 @@ Nous sommes fiers de présenter **notre projet XR immersif dédié aux fans de f
 
 ## 🖼️ Aperçus du projet
 
-### Interface immersive pour les supporters
-![Interface Fans](assets/xr_fans_interface.png)
+### Poster
+![Interface Fans](poster.jpg)
 
 ### Équipe projet lors du concours
 ![Équipe](equipe.jfif)

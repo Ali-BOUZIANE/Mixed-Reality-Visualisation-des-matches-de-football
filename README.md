@@ -43,7 +43,7 @@ Nous sommes fiers de présenter **notre projet XR immersif dédié aux fans de f
 
 Un immense bravo à notre équipe exceptionnelle :
 
-- 👨‍💻 **Ayoub El Abbadi**
+- 👨‍💻 **Ayoub El ABBADI**
 - 👨‍💻 **Ali BOUZIANE**
 - 👨‍💻 **Abdelali Mardi**  
 - 👨‍💻 **YOUNESS AOUAM**    
